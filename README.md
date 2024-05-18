@@ -1,8 +1,8 @@
 # SQLI Dorks Generator
 
-this is simple script for generate dorks list for sql injection
+this is simple script for generate dorks list for sql injection, dork extraction with copy over clipboard with a fixed number of copied line and automation of the sotware SQLidumper(https://github.com/AngelSecurityTeam/SQLiDumper-AngelSecurityTeam) with the previous generated dork
 
-## How to use
+## How to use the dork generator
 
 * Write the names of the sites that have the same category in **sites.txt**
   * for example shopping will be `Amazon`, `Walmart`, `Alibaba`... etc
@@ -49,3 +49,4 @@ Walmart -shop electronics - / php?id= + inurl:
 Alibaba shop electronics .cfg?item_id=
 Alibaba cash on delivery .aspx?item_id=
 ```
+## For all other files just click on them and it will non need a single modify(if u want to copy 666 lines to clipboard eachtime)
