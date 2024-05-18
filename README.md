@@ -49,4 +49,4 @@ Walmart -shop electronics - / php?id= + inurl:
 Alibaba shop electronics .cfg?item_id=
 Alibaba cash on delivery .aspx?item_id=
 ```
-## For all other files just click on them and it will non need a single modify(if u want to copy 666 lines to clipboard eachtime)
+## For all other files just click on them and it will not need a single modify(if u want to copy 666 lines to clipboard eachtime)
